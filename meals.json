@@ -1,0 +1,511 @@
+{ 
+    "_id" : ObjectId("5e1c8069966b34378c019fd3"), 
+    "price" : NumberInt(22), 
+    "discription" : "kjkjkj", 
+    "name" : "شماء النادي", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c8205966b34378c019fd4"), 
+    "price" : NumberInt(50), 
+    "discription" : "pizza hot with spicy", 
+    "name" : "pizza", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c82f7966b34378c019fd5"), 
+    "price" : NumberInt(22), 
+    "discription" : "popular egyptian meal", 
+    "name" : "Koshary", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c8371966b34378c019fd6"), 
+    "price" : NumberInt(30), 
+    "discription" : "fabulous meal", 
+    "name" : "shawerma", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c83e5966b34378c019fd7"), 
+    "price" : NumberInt(100), 
+    "discription" : "fresh meal", 
+    "name" : "sea food", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c8417966b34378c019fd8"), 
+    "price" : NumberInt(70), 
+    "discription" : "grilled", 
+    "name" : "chicken", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c8452966b34378c019fd9"), 
+    "price" : NumberInt(30), 
+    "discription" : "compo", 
+    "name" : "sandwich panee", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c8491966b34378c019fda"), 
+    "price" : NumberInt(40), 
+    "discription" : "germany meal", 
+    "name" : "beef burger", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c84c1966b34378c019fdb"), 
+    "price" : NumberInt(35), 
+    "discription" : "french meal", 
+    "name" : "french fries", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c84f6966b34378c019fdc"), 
+    "price" : NumberInt(25), 
+    "discription" : "chicken slice", 
+    "name" : "faheita", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c854b966b34378c019fdd"), 
+    "price" : NumberInt(18), 
+    "discription" : "medium", 
+    "name" : "fruit salad", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c8591966b34378c019fde"), 
+    "price" : NumberInt(30), 
+    "discription" : "chocolate", 
+    "name" : "sweaty roll", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c85d8966b34378c019fdf"), 
+    "price" : NumberInt(45), 
+    "discription" : "fresh drink", 
+    "name" : "apple juice", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c85fc966b34378c019fe0"), 
+    "price" : NumberInt(15), 
+    "discription" : "without sugar", 
+    "name" : "coffee", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c866c966b34378c019fe1"), 
+    "price" : NumberInt(48), 
+    "discription" : "french drink", 
+    "name" : "french coffee", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c86b1966b34378c019fe2"), 
+    "price" : NumberInt(5), 
+    "discription" : "egyptian drink", 
+    "name" : "tea", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c8818e5a0ae0f90338607"), 
+    "price" : NumberInt(55), 
+    "discription" : "fresh fish", 
+    "name" : "gembary", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c9807caee5c376089dc71"), 
+    "price" : NumberInt(70), 
+    "discription" : "italian food", 
+    "name" : "spaggeti", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c98e7219cdc26e04f1275"), 
+    "price" : NumberInt(80), 
+    "discription" : "french meal", 
+    "name" : "appel pie", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c9932219cdc26e04f1276"), 
+    "price" : NumberInt(75), 
+    "discription" : "fresh", 
+    "name" : "pie", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c996e219cdc26e04f1277"), 
+    "price" : NumberInt(60), 
+    "discription" : "italian food", 
+    "name" : "bassta", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c99a7219cdc26e04f1278"), 
+    "price" : NumberInt(66), 
+    "discription" : "large", 
+    "name" : "pizza hot", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c99eaea92c01ee8e91e4f"), 
+    "price" : NumberInt(88), 
+    "discription" : "popular meal", 
+    "name" : "spanish pie", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1c9aaeee1a6d3638eb9426"), 
+    "price" : NumberInt(56), 
+    "discription" : "saudian meal", 
+    "name" : "kabsa", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cad843aa14431f007da18"), 
+    "price" : NumberInt(30), 
+    "discription" : "french meal", 
+    "name" : "wafaa", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1caf3b796a43249ce9dfb0"), 
+    "price" : null, 
+    "discription" : "kjkjkj", 
+    "name" : "wafaa", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cafe7156208343c85fde9"), 
+    "price" : NumberInt(30), 
+    "discription" : "fresh", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cb0598ad41120a0676524"), 
+    "price" : null, 
+    "discription" : "fresh", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cb19e653e5236f099847e"), 
+    "price" : null, 
+    "discription" : "fresh", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cb1ae653e5236f099847f"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "wafaa", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cb2bdc91a5917508e36a3"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cc000c91a5917508e36a4"), 
+    "price" : NumberInt(100), 
+    "discription" : "fresh", 
+    "name" : "apple juice", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cc4ba1a8a623e54094785"), 
+    "price" : NumberInt(100), 
+    "discription" : "fresh", 
+    "name" : "apple juice", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cc4f71a8a623e54094786"), 
+    "price" : NumberInt(99), 
+    "discription" : "kjkjkj", 
+    "name" : "shawerma", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cc7bb2b12dd383c15e288"), 
+    "price" : NumberInt(99), 
+    "discription" : "kjkjkj", 
+    "name" : "shawerma", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cc7cb2b12dd383c15e289"), 
+    "price" : NumberInt(30), 
+    "discription" : "fresh", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cc953b4b1c331c8118a6d"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cc9ec4bf97d39f8f61b9c"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1ccac1d701072d3870e747"), 
+    "price" : NumberInt(30), 
+    "discription" : "fresh", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1ccf846ab05c11ecf356cb"), 
+    "price" : NumberInt(30), 
+    "discription" : "fresh", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd0006ab05c11ecf356cc"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd0db6ab05c11ecf356cd"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd1353846c3276cb6f909"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd18c558fda1c1047e57b"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd1c236f1b3127ce3e925"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd25d542e041578b73f99"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd4a0606b9934ac418418"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd5ab04381d1e9c7e7b01"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd5e004381d1e9c7e7b02"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd5e504381d1e9c7e7b03"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd5ee04381d1e9c7e7b04"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd5ef04381d1e9c7e7b05"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd5ef04381d1e9c7e7b06"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd5ef04381d1e9c7e7b07"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd5f004381d1e9c7e7b08"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd5f004381d1e9c7e7b09"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd5f004381d1e9c7e7b0a"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd61204381d1e9c7e7b0b"), 
+    "price" : NumberInt(30), 
+    "discription" : "fresh", 
+    "name" : "شماء النادي", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd6511956af36444c83dc"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd6641956af36444c83dd"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd6a06bf21017b8b294d6"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd700fae0e620e4c1d7cf"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd7ddad8f8c2af013b765"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd836fbf5cc34889c6475"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cd9dbfe73ac0658021f4c"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cda2a3c437f21c0a3ee2d"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cdb11766fb521b4331e54"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "TAHANY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cdc43766fb521b4331e55"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "shawerma", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cdc74766fb521b4331e56"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "nahla", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cdc7d766fb521b4331e57"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "na", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cdc8f766fb521b4331e58"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "nahla", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cdd07766fb521b4331e59"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "nahla", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5e1cdd424bfafa3fac4f4f22"), 
+    "price" : null, 
+    "discription" : "", 
+    "name" : "", 
+    "__v" : NumberInt(0)
+}
