@@ -1,0 +1,76 @@
+<%- include('parts/header')%>
+<%- include('parts/navbar')%> 
+
+
+
+
+ 
+
+  <div class="row">
+    <% meals_data.forEach(function(meal){ %>
+
+  <form action="/order-details" method="GET" > 
+   
+   <div class=".col .col-12 .col-md-2 .col-l-4 .col-xl-3">
+
+    <div class="card" style="width: 18rem;">
+         
+        <div class="card-body">
+          <h5 class="card-title"><%=meal.name%></h5>
+          <p class="card-text"><%=meal.discription%></p>
+          <p class="card-text"><%=meal.price%></p>
+             <form>
+                <div class="form-group form-check">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                </div>
+             </form>   
+        </div>
+
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+       
+
+      </div>
+        
+   </div>
+     
+
+
+    <%})%>
+    <br>
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+  </form> 
+
+  </div> 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<%- include('parts/footer')%>
+
+
+
+
+
+
+
+
+      
